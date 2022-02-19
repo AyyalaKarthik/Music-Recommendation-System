@@ -1,0 +1,254 @@
+body {
+  font-family: 'Montserrat-Black';
+}
+
+#title {
+  background-color: #6a2c70;
+  color: #FFF;
+}
+
+.Heading {
+  font-family: "Montserrat-Black", sans-serif;
+  line-height: 1.5;
+  font-size: 65px;
+  font-weight: 900;
+  text-align: center;
+  color: #ffbd39;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.titleparagraph {
+  color: #f58634;
+}
+
+.container-fluid {
+  padding: 0% 0% 1%;
+}
+
+.rowtitle {
+  padding: 3% 20% 2%;
+  text-align: center;
+  height: 580px;
+}
+
+h2 {
+  font-size: 3rem;
+  font-family: "Montserrat-Bold";
+  line-height: 1.5;
+}
+
+/* navigation Bar */
+.navbar {
+  margin: 0px;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 14px;
+}
+
+.nav-link {
+  font-weight: lighter;
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* Download Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Features section */
+#features {
+  padding: 7% 15%;
+  background-color: #007580;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+/* Font Awesome */
+#smile {
+  color: #fff600;
+  font-size: 3rem;
+}
+
+#energetic {
+  color: #fff600;
+  font-size: 3rem;
+}
+
+#sad {
+  color: #fff600;
+  font-size: 3rem;
+}
+
+#depressed {
+  color: #fff600;
+  font-size: 3rem;
+}
+
+#calm {
+  color: #fff600;
+  font-size: 3rem;
+}
+
+#love {
+  color: #fff600;
+  font-size: 3rem;
+}
+
+#smile:hover {
+  color: #f0a500;
+}
+
+#energetic:hover {
+  color: #f0a500;
+}
+
+#sad:hover {
+  color: #f0a500;
+}
+
+#depressed:hover {
+  color: #f0a500;
+}
+
+#calm:hover {
+  color: #f0a500;
+}
+
+#love:hover {
+  color: #fa1e0e;
+}
+
+/* H3 texts css */
+.circlewala {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.bullseyewala {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.heartwala {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+/* paragraph content ki css */
+.Sutti {
+  color: #290149;
+}
+
+/* Testimonials */
+#testimonials {
+  text-align: center;
+  background-color: #007580;
+  color: #FFF;
+}
+
+.testimonial-image {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Pricing section */
+.h2class {
+  text-align: center;
+  margin: 1%;
+  font-weight: bold;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+  height: 600px;
+}
+
+/* Media Query Points */
+@media (max-width: 1028px) {
+  .Heading {
+    text-align: center;
+  }
+
+  .Dog-Image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+/* Call To action CSS */
+#cta {
+  background-color: #FF4C68;
+  text-align: center;
+  padding: 10%;
+}
+
+.Bokkagadni {
+  font-family: "Montserrat-Black", sans-serif;
+  color: #FFF;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-weight: bolder;
+}
+
+.second-download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Footer CSS Functions */
+#footer {
+  background-color: #FFF;
+  text-align: center;
+  padding: 5%;
+}
+
+i {
+  margin-right: 1rem;
+}
+
+#twitter {
+  color: #78c4d4;
+}
+
+#facebook {
+  color: blue;
+}
+
+#instagram {
+  color: #c70039;
+}
+
+#twitter:hover {
+  color: #55b3b1;
+}
+
+#facebook:hover {
+  color: #11698e;
+}
+
+#instagram:hover {
+  color: #91091e;
+}
+
+#email:hover {
+  color: #dddddd;
+}
